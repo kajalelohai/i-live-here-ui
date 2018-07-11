@@ -1,0 +1,29 @@
+* I Live Here
+
+iLiveHere is a social network of tenants, focused on their lives in rented places.
+
+
+- Members can
+  - Add new places
+  - Write reviews for places
+  - Log activity in the place they are living in
+
+
+** User Stories
+
+*** TODO AS A USER when I open the app THEN I want to see login page
+https://app.asana.com/0/735682463434408/735682463434412/f
+
+- I can see a form asking for username and password
+- I can see a checkbox saying =Remember me=
+- I can see a link saying =Not registered yet? Sign Up!=
+
+*** AS A USER when I click on =Signup= link on login page, THEN I want to see the signup page
+
+- I can see a form with 4 fields
+  - Email
+  - Username
+  - Password
+  - Confirm Password
+- I can see a button with label =Sign Up=
+- I can see a link saying =Already Registered? Log In!= which takes me to the login page
