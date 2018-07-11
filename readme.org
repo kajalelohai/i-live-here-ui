@@ -19,6 +19,7 @@ https://app.asana.com/0/735682463434408/735682463434412/f
 - I can see a link saying =Not registered yet? Sign Up!=
 
 *** AS A USER when I click on =Signup= link on login page, THEN I want to see the signup page
+https://app.asana.com/0/735682463434408/735682463434411/f
 
 - I can see a form with 4 fields
   - Email
